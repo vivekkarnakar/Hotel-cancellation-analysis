@@ -26,3 +26,4 @@ This project aims to analyze hotel booking cancellations to uncover key factors 
 -- hotel_bookings dataset ----> # Original hotel booking dataset<br>
 -- Cleaned_hotels_dataset ----> # Cleaned dataset for analysis<br>
 -- Business Problem (Hotel cancellation analysis) ----> Main PDF, it containes the whole documentation of the project, with findings, visual charts and solutions.
+-- Hotel cancellation analysis Dashboard.twbx ----> # Tableau Dashboard for this project (twbx file)
