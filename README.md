@@ -20,4 +20,9 @@ This project aims to analyze hotel booking cancellations to uncover key factors 
 -- Data Visualization: Tableau
 
 -- Analysis Techniques: Exploratory Data Analysis (EDA), Trend Analysis
- 
+
+## 📂Project Structure
+-- Hotel cancellation analysis.ipynb ----> # Main jupyter file containing the python code for analysis<br>
+-- hotel_bookings dataset ----> # Original hotel booking dataset<br>
+-- Cleaned_hotels_dataset ----> # Cleaned dataset for analysis<br>
+-- Business Problem (Hotel cancellation analysis) ----> Main PDF, it containes the whole documentation of the project, with findings, visual charts and solutions.
